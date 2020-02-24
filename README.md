@@ -1,4 +1,4 @@
-# 2020-02-24 Git Basics
+# 2020-02-24 Git Basics Training Notes
 
 ## Local
 

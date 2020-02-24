@@ -14,3 +14,9 @@
 
 - index/staging area: files in here will be commited
 - `HEAD`: where you are looking at in git history
+
+- remote: anywhere you didn't `init` or `clone`
+  - `remote add origin <URL>`: adds the url as a remote named `origin`
+  - `remote -v`: see your remotes
+- `push`: send code to our remote
+- `pull`: get code from our remote (does a `fetch` and `merge`)
